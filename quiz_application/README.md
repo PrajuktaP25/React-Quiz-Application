@@ -17,14 +17,12 @@ This project is a simple and clean **React + Vite** quiz application that shows 
 ### 1. Install dependencies
 ```bash
 bun install
-### 2. Start the development server
-```bash
+2. Start the development server
 bun dev
-### 3. Build for production
-```bash
+3. Build for production
 bun build
 
-Project Structure
+## Project Structure
 src/
  ├── App.jsx
  ├── components/
@@ -36,7 +34,7 @@ src/
  ├── index.css
  ├── main.jsx
 
-How the App Works
+ How the App Works
 The quiz starts from the first question.
 A 15-second timer counts down for each question.
 Once the user selects an option, the answer is locked.
