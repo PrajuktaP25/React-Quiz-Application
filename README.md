@@ -9,7 +9,7 @@ This project is a simple and clean **React + Vite** quiz application that shows 
 - Score tracking  
 - Clean and simple UI  
 - Questions stored in a JSON file  
-- Fast development with Vite + HMR  
+- Fast development with Vite  
 
 ## Run the Project Locally
 
