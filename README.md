@@ -38,19 +38,13 @@ src/
  ├── index.css
  ├── main.jsx
 ```
-### How the App Works
+## How the App Works
 The quiz starts from the first question.
 A 15-second timer counts down for each question.
 Once the user selects an option, the answer is locked.
 Clicking Next moves to the next question.
 After the last question, the final score is displayed.
 User can restart the quiz anytime.
----
 
-
-
-
-
-
-License
+## License
 This project is open-source and free to use.
