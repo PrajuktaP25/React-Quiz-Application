@@ -17,12 +17,11 @@ This project is a simple and clean **React + Vite** quiz application that shows 
 ### 1. Install dependencies
 ```bash
 bun install
-2. Start the development server
-bash
-
+### 2. Start the development server
+```bash
 bun dev
-3. Build for production
-bash
+### 3. Build for production
+```bash
 bun build
 
 Project Structure
